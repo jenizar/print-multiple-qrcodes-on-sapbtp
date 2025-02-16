@@ -9,6 +9,10 @@ Deploy Print Multiple QRCodes to SAP BTP using React JS
 
 ![alt text](https://github.com/jenizar/print-multiple-qrcodes-on-sapbtp/blob/main/screenshot/pic4.png)
 
+Reference:
+
+https://sapcloudapps.wordpress.com/2025/02/16/react-js-on-sap-btp-print-multiple-qr-codes/
+
 
 
 
